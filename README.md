@@ -47,5 +47,5 @@
 
 <!-- Emoji/Theme Style: Futuristic & Creative -->
 <p align="center">
-  <span>🌟🪐🚀✨💡🛠️</span>
+  <span> Avinx Health coming soon... </span>
 </p>
