@@ -45,20 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=56radius&show_icons=true&theme=radical" alt="56radius's GitHub stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=56radius&theme=radical" alt="56radius's GitHub streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=56radius&label=Profile%20views&color=0e75b6&style=flat" alt="56radius" />
-</p>
-
 <!-- Emoji/Theme Style: Futuristic & Creative -->
 <p align="center">
   <span>🌟🪐🚀✨💡🛠️</span>
