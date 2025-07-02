@@ -41,7 +41,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merit-mohammed-a9556a229/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-222?logo=vercel&logoColor=white)](https://solo-coder.vercel.app/)
 
-**📧 Email:** meritmohammed56@gmail.com
+**📧 Email:** cussmeritmohammed@gmail.com
+Work Email: ** merit.mohammed@muons.technology 
+            ** merit@tunjio.com
 
 ---
 
