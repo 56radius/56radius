@@ -1,8 +1,4 @@
 <!-- Banner/avatar section (replace with your own banner/avatar if desired) -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/56radius?v=4" width="120" height="120" style="border-radius: 50%;" alt="56radius Avatar" />
-</p>
-
 <h1 align="center">Hi there 👋, I'm 56radius</h1>
 <h3 align="center">Software Engineer | Blockchain Developer | A Rank Developer</h3>
 
