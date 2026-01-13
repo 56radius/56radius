@@ -10,29 +10,30 @@
 
 ## 🛠️ Tech Stack & Skills
 
-- ⚛️ React + Vite
-- 🔥 Firebase
-- 🧑‍🏫 Mentor
-- 🐘 PHP & SQL
-- 🟦 Chakra UI
-- 🍃 MongoDB
+-  React + Vite
+-  Firebase
+-  Tech Mentor
+-  Innovation Technology Leader
+-  PHP & SQL
+-  Chakra UI
+-  MongoDB
 
 ---
 
-## 🚀 Favorite Projects
+## Favorite Projects
 
-- 🟢 **NYSC CDS Group Website**  
+-  **NYSC CDS Group Website**  
   [dl4all-cds.vercel.app](https://dl4all-cds.vercel.app)
-- 📝 **Blog Dashboard for Mountain Top University**  
+-  **Blog Dashboard for Mountain Top University**  
   [nasels-blog-dashboard.vercel.app](https://nasels-blog-dashboard.vercel.app/sign-in)
-- 🪙 **Jupiter Payment Exchange (100XDev Challenge, Blockchain App)**  
+-  **Jupiter Payment Exchange (100XDev Challenge, Blockchain App)**  
   [jupiter-payment-exchange.vercel.app](https://jupiter-payment-exchange.vercel.app/)
-- 🧑‍💻 **My Portfolio**  
+-  **My Portfolio**  
   [solo-coder.vercel.app](https://solo-coder.vercel.app/)
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merit-mohammed-a9556a229/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-222?logo=vercel&logoColor=white)](https://solo-coder.vercel.app/)
