@@ -1,5 +1,5 @@
 <!-- Banner/avatar section (replace with your own banner/avatar if desired) -->
-<h1 align="center">Hi there 👋, I'm 56radius</h1>
+<h1 align="center">Hi there, I'm Merit Mohammed</h1>
 <h3 align="center">Software Engineer | Blockchain Developer | A Rank Developer</h3>
 
 <p align="center">
